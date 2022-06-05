@@ -1,6 +1,6 @@
 # Sonarqube Task
-
-## Install SonarQube Using Helm Chart
+### Using Minikube
+- Install SonarQube Using Helm Chart
 ```sh 
 helm repo add sonarqube https://SonarSource.github.io/helm-chart-sonarqube
 ```
